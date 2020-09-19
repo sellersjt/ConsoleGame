@@ -1,0 +1,7 @@
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\MySyrniaGame\MySyrniaGame\bin\Debug\MySyrniaGame.exe.config
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\MySyrniaGame\MySyrniaGame\bin\Debug\MySyrniaGame.exe
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\MySyrniaGame\MySyrniaGame\bin\Debug\MySyrniaGame.pdb
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\MySyrniaGame\MySyrniaGame\obj\Debug\MySyrniaGame.csprojAssemblyReference.cache
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\MySyrniaGame\MySyrniaGame\obj\Debug\MySyrniaGame.csproj.CoreCompileInputs.cache
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\MySyrniaGame\MySyrniaGame\obj\Debug\MySyrniaGame.exe
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\MySyrniaGame\MySyrniaGame\obj\Debug\MySyrniaGame.pdb
